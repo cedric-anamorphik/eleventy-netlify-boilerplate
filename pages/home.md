@@ -1,12 +1,13 @@
 ---
-title: Home
+title: Accueil
 date: 2016-01-01T00:00:00.000Z
 permalink: /
-navtitle: Home
+navtitle: Accueil
 tags:
   - nav
 ---
-# Welcome!
+
+# Welcome!!
 
 This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
 
